@@ -1,7 +1,6 @@
 About this project
 ==================
-Is common see/find doubts about how Turbolinks 5 breaks the Bootstrap navbar component.
-Because of this, I created this project to help these people to achieve a better knowledge about how the things works.
+This project was created to help developers make Turbolinks 5 work with Bootstrap components and understand how things work under the hood.
 
 Some tips:
 ----------
